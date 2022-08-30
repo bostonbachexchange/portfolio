@@ -3,9 +3,6 @@ display things I am passonate about and my interests.
 
 # Resume
 https://docs.google.com/document/d/1KudVxHZuYysBWoWilyv4sR_3dvPz7eTAJp9AhOzN1Ok/edit
-<!-- update summary, ellaborate on job experience, update skills, add deployment links -->
-Submit resume!!!!!
-https://classroom.google.com/c/NTIyMzY3NTg1Njk2/sp/MzI4MTc4NjgyMDZa/all
 
 ## Brand Statement
 https://docs.google.com/document/d/1IlZMEtWWO6fQ3TAxP3P8ElKmO-4IS_WAvIVFpz6dAI4/edit
