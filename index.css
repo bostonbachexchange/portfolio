@@ -1,3 +1,7 @@
-/* h1 {
-    color: green;
-} */
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#googleFont {
+    font-family: 'Titillium Web';
+}
