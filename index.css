@@ -1,3 +1,7 @@
 #googleFont {
     font-family: 'Titillium Web';
 }
+
+#navLinkColor:hover {
+    color: teal !important;
+}
