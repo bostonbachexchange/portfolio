@@ -5,3 +5,7 @@
 #navLinkColor:hover {
     color: teal !important;
 }
+
+.ml-1 {
+    margin-left: 2 !important;
+  }
