@@ -1,4 +1,4 @@
-#googleFont {
+/* #googleFont {
     font-family: 'Titillium Web';
 }
 
@@ -14,3 +14,48 @@
     height: 100vh;
     width: 100%;
   }
+
+  .boxbody {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 10vh;
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  .box {
+    display: block;
+  }
+   */
+
+
+@import url("https://fonts.googleapis.com/css2?family=Signika+Negative:wght@400;600&display=swap");
+
+.boxbody{display:flex;align-items:center;justify-content:space-around;min-height:10vh;
+	font-family: "Signika Negative", sans-serif;}
+
+h3 {
+  position: fixed;
+  top: 0;
+  width: 50%;
+  text-align: center;
+}
+
+.box {
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: grey;
+  border-radius: 5px;
+  color: white;
+  transition: background-color 0.1s ease;
+}
+
+.box:hover {
+  background-color: #008080;
+}
