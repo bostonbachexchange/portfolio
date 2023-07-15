@@ -25,7 +25,7 @@ document.querySelectorAll(".box").forEach(function(box) {
       opacity: 0, 
       y: -100, 
       stagger: 0.1,
-      ease: "back.in"
+      ease: "back.in",
     });
   });
 });
